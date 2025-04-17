@@ -1,9 +1,0 @@
-For Linux servers, when I need to expose a file for other VMs to download I usually export them using "python3 -m http.server 8080" and it exports the files in the current directory using http protocol at 8080 port.
-
-For Windows Servers that do not have python install I ask Gemini to create a PowerShell equivalent.
-
-The code is:
-
-
-
-
